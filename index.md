@@ -34,3 +34,13 @@ During my time with this company I was a part of the following two teams and I c
 - **Identity Team**: Azire Active Directory, Azure AD Connect, Azure RBAC, AAD roles, Azure Active Directory Domain Services, etc.
 - **Monitoring Team**: Azure Metrics, Auto-Scaling on different services, KQL, Custom Alerts, Metric Alerts, Logs, Application Insights, Diagnostic settings, etc.
 
+## Education
+**Bachelor degree** in Computer Systems and Technologies 
+[University of Ruse](https://www.uni-ruse.bg/en) - Ruse, Bulgaria(2009 - 2013)
+
+## Certification
+**Az104** - Azure Administrator Associate
+
+## Languages
+English: C1
+French: A1
